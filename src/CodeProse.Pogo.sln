@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3B65A22A-3461-4801-A4C8-3E4FFD609BA3}"
+	ProjectSection(SolutionItems) = preProject
+		CodeProse.Pogo.vsmdi = CodeProse.Pogo.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProse.Pogo", "CodeProse.Pogo\CodeProse.Pogo.csproj", "{A9E46D9A-45EB-43C2-80B3-454864D3F8FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProse.Pogo.Tests", "CodeProse.Pogo.Tests\CodeProse.Pogo.Tests.csproj", "{786E45F3-61E7-480A-8F34-C2EDAD5EE3BE}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CodeProse.Pogo.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E46D9A-45EB-43C2-80B3-454864D3F8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E46D9A-45EB-43C2-80B3-454864D3F8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E46D9A-45EB-43C2-80B3-454864D3F8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E46D9A-45EB-43C2-80B3-454864D3F8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786E45F3-61E7-480A-8F34-C2EDAD5EE3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786E45F3-61E7-480A-8F34-C2EDAD5EE3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786E45F3-61E7-480A-8F34-C2EDAD5EE3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786E45F3-61E7-480A-8F34-C2EDAD5EE3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
