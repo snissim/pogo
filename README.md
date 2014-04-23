@@ -84,12 +84,8 @@ See the CONTRIBUTING document.
 
 About
 -----
-Pogo is written and maintained by Samuel Nissim, principal partner of [CodeProse, LLC](http://thecodeprose.com).
-
-![codeprose](http://thecodeprose.com/images/logo_full.png)
-
-The names and logos for CodeProse are trademarks of CodeProse, LLC
+Pogo is written and maintained by Samuel Nissim.
 
 License
 -------
-Pogo is Copyright (c) 2013 CodeProse, LLC. It is free software, and may be redistributed under the terms specified in the LICENSE file.
+Pogo is free software, and may be redistributed under the terms specified in the LICENSE file.
